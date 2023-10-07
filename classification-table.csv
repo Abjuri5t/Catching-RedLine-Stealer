@@ -1,19 +1,19 @@
 Protocol Id,Classification,Suricata Signature
-Id1,"net.tcp://<ip>:<port>/.Id1.http://tempuri.org/" - instantiates communications,TLP:AMBER
+Id1,'net.tcp://<ip>:<port>/.Id1.http://tempuri.org/' - instantiates communications,TLP:AMBER
 Id2,,
-Id4,"user" - stuff,TLP:AMBER
-Id6,"defenders" - antivirus and EDR stuff,TLP:AMBER
-Id7,"languages" - stuff,
-Id8,"softwares" - stuff,
-Id9,"processes" - stuff,
-Id10,"hardwares" - stuff,
-Id11,"browsers" - stuff,
-Id12,"ftps" - stuff,
-Id13,"installedBrowsers" - stuff,
+Id4,'user' - stuff,TLP:AMBER
+Id6,'defenders' - antivirus and EDR stuff,TLP:AMBER
+Id7,'languages' - stuff,
+Id8,'softwares' - stuff,
+Id9,'processes' - stuff,
+Id10,'hardwares' - stuff,
+Id11,'browsers' - stuff,
+Id12,'ftps' - stuff,
+Id13,'installedBrowsers' - stuff,
 Id16,,
-Id17,"loginPairs" - stuff,
-Id18,"remoteFiles" - stuff,
+Id17,'loginPairs' - stuff,
+Id18,'remoteFiles' - stuff,
 Id19,,
 Id20,,
-Id21,"remoteFiles" - stuff,
+Id21,'remoteFiles' - stuff,
 Id22,,
