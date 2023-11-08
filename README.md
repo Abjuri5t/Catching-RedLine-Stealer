@@ -2,6 +2,8 @@
 
 See [Advice For Catching a RedLine Stealer](https://medium.com/@the_abjuri5t/advice-for-catching-a-redline-stealer-dca126867193) for full blog post.
 
+![blog image](https://raw.githubusercontent.com/Abjuri5t/Catching-RedLine-Stealer/main/Advice-For-Catching-a-RedLine-Stealer.png)
+
 RedLine Stealer is an infamous malware strain that provides cyber-criminals with a reliable payload for stealing sensitive information from an infected computer. Both MalwareBazaar statistics and ANY.RUN trends consistently track RedLine as the most common payload on their platforms. Redline Stealer is classified by malware taxonomy as an “information stealer” (infostealer). Like many infostealers, RedLine is leveraged by cyber-criminals for reconnaissance and initial access. The information that RedLine steals includes:
 
  - browser autofill details (login credentials, payment card information, contact information, etc.)
