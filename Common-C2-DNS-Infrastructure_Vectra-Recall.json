@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "04468390-b326-11e9-a921-e1a52e35f475",
+    "_type": "search",
+    "_source": {
+      "title": "Common C2 DNS Infrastructure",
+      "description": "",
+      "hits": 0,
+      "columns": [
+        "orig_hostname",
+        "id.orig_h",
+        "id.resp_h",
+        "query",
+        "answers"
+      ],
+      "sort": [
+        "ts",
+        "desc"
+      ],
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"9d8143d0-3ce2-11e8-80cc-950e99edcb04\",\"highlightAll\":true,\"version\":true,\"query\":{\"query\":\"query:(*.xyz OR *.top OR *.duckdns.org OR *.ddns.org OR *.su OR *.viewdns.net OR *.hopto.org OR *.bounceme.net OR *.ngrok.io)\",\"language\":\"lucene\"},\"filter\":[]}"
+      }
+    }
+  }
+]
